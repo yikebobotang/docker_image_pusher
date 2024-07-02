@@ -1,3 +1,1 @@
-kubesphere/ks-installer:v3.4.1
-kubesphere/ks-apiserver:v3.4.1
-kubesphere/ks-controller-manager:v3.4.1
+minio/minio:RELEASE.2019-08-07T01-59-21Z
