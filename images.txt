@@ -3,3 +3,4 @@ calico/node:v3.25.0
 calico/kube-controllers:v3.25.0
 docker.io/calico/kube-controllers:v3.25.0
 registry.cn-hangzhou.aliyuncs.com/lfy_k8s_images/nfs-subdir-external-provisioner:v4.0.2
+registry.cn-hangzhou.aliyuncs.com/lfy_k8s_images/metrics-server:v0.4.3
