@@ -1,1 +1,1 @@
-minio/minio:RELEASE.2019-08-07T01-59-21Z
+kubesphere/kube-rbac-proxy:v0.11.0
