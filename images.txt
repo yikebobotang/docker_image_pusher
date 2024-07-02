@@ -1,1 +1,1 @@
-kubesphere/ks-console:v3.4.1
+kubesphere/ks-controller-manager:v3.4.1
