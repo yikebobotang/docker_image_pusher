@@ -1,1 +1,1 @@
-ananwaresystems/webarchive:1.0
+mysql:5.7.30
