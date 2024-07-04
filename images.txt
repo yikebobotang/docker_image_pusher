@@ -1,1 +1,1 @@
-opensearchproject/opensearch:2.6.0
+mirrorgooglecontainers/defaultbackend-amd64:1.4
