@@ -1,1 +1,1 @@
-mirrorgooglecontainers/defaultbackend-amd64:1.4
+ananwaresystems/webarchive:1.0
