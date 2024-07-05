@@ -1,1 +1,1 @@
-wordpress:4.8-apache
+docker.io/bitnami/jenkins:2.452.2-debian-12-r2
