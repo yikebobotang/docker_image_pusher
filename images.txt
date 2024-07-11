@@ -1,1 +1,1 @@
-centos:centos7
+tomcat
