@@ -1,1 +1,1 @@
-kubesphere/devops-tools:ks-v3.4.1
+centos:centos7
