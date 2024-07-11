@@ -1,1 +1,1 @@
-tomcat
+registry
