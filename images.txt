@@ -1,2 +1,1 @@
-kibana:8.5.0
-logstash:8.5.0
+filebeat:7.17.2
