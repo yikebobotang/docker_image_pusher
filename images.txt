@@ -1,1 +1,1 @@
-1panle/openresty:1.21.4.3-3-3-focal
+1panel/openresty:1.21.4.3-3-3-focal
