@@ -1,1 +1,1 @@
-halohub/halo-pro:2.18.0
+1panel/openresty:1.21.4.3-3-3-focal
