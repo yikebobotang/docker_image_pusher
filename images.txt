@@ -1,1 +1,1 @@
-elastic/filebeat:7.17.2
+halo:2.18.0
