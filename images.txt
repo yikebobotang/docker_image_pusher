@@ -1,1 +1,2 @@
 louislam/uptime-kuma:1
+nicolargo/glances:latest-full
