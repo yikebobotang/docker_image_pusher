@@ -1,1 +1,1 @@
-microsoft/mssql-server-2008-r2
+mssql-server-2008-r2
