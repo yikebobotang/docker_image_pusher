@@ -1,1 +1,1 @@
-mssql-server-2008-r2
+rancher/rancher-webhook:v0.2.10
