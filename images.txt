@@ -1,1 +1,1 @@
-rancher/rancher-webhook:v0.2.10
+harbor-portal:2.4.1-debian-10-r58
