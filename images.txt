@@ -1,1 +1,1 @@
-docker.io/bitnami/nginx:1.21.6-debian-10-r35
+harbor.newerabc.com:8443/big-data/engine:latest
