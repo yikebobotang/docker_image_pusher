@@ -1,1 +1,1 @@
-docker.io/bitnami/harbor-portal:2.4.1-debian-10-r58
+docker.io/bitnami/nginx:1.21.6-debian-10-r35
