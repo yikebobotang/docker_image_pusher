@@ -1,1 +1,1 @@
-debezium/hbase:1.3
+harisekhon/hbase:1.3
