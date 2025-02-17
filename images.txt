@@ -1,1 +1,1 @@
-exoplatform/sqlserver
+exoplatform/sqlserver:2008
