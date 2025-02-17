@@ -1,1 +1,1 @@
-exoplatform/sqlserver:2008
+harisekhon/hbase:1.2
