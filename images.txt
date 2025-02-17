@@ -1,2 +1,1 @@
-rancher/rancher:v2.5.16
-rancher/rancher-agent:v2.5.16
+exoplatform/sqlserver
