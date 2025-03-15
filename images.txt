@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/google_containers/metrics-server-arm64:v0.4.4
+registry.aliyuncs.com/google_containers/metrics-server:v0.6.3
