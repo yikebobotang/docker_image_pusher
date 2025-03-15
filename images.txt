@@ -1,1 +1,1 @@
-opsdockerimage/metrics-server-arm64:v0.4.4
+opsdockerimage/metrics-server-arm64
