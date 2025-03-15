@@ -1,2 +1,1 @@
-ghcr.io/flannel-io/flannel:v0.26.4
-ghcr.io/flannel-io/flannel-cni-plugin:v1.6.2-flannel1
+k8s.gcr.io/metrics-server/metrics-server:v0.4.4
