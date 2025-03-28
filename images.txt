@@ -1,1 +1,1 @@
-sequenceiq/hadoop-docker:2.9.2
+flokkr/hadoop:2.9.0
