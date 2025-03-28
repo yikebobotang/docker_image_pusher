@@ -1,1 +1,1 @@
-flokkr/hadoop:2.9.0
+apache/hadoop:2.10
