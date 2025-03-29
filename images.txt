@@ -1,1 +1,1 @@
-sequenceiq/hadoop-docker:2.7.1
+elasticsearch:7.6.2
