@@ -1,1 +1,1 @@
-neo4j:5.26.2
+bitnami/kafka:3.7.0
