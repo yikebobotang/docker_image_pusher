@@ -1,1 +1,1 @@
-bitnami/kafka:3.7.0
+docker.io/bitnami/chartmuseum:0.14.0-debian-10-r30
