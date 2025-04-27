@@ -1,1 +1,2 @@
-docker.io/bitnami/chartmuseum:0.14.0-debian-10-r30
+sequenceiq/hadoop-docker:2.7.1
+big-data-europe/docker-hive:latest
