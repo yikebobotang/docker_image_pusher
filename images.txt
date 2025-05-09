@@ -1,2 +1,5 @@
-sequenceiq/hadoop-docker:2.7.1
-big-data-europe/docker-hive:latest
+docker.getcollate.io/openmetadata/db:1.7.0
+docker.elastic.co/elasticsearch/elasticsearch:8.11.4
+docker.getcollate.io/openmetadata/server:1.7.0
+docker.getcollate.io/openmetadata/server:1.7.0
+docker.getcollate.io/openmetadata/ingestion:1.7.0
