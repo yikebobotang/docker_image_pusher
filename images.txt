@@ -1,1 +1,1 @@
-configmap-reload:v0.5.0
+bitnami/configmap-reload:v0.5.0
