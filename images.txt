@@ -1,1 +1,1 @@
-bitnami/configmap-reload:v0.5.0
+jimmidyson/configmap-reload:v0.5.0-amd64
