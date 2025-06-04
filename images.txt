@@ -1,6 +1,1 @@
-grafana/grafana:7.3.4
-quay.io/coreos/kube-state-metrics:v1.9.7
-quay.io/brancz/kube-rbac-proxy:v0.8.0
-directxman12/k8s-prometheus-adapter:v0.8.2
-quay.io/prometheus-operator/prometheus-operator:v0.44.1
-quay.io/brancz/kube-rbac-proxy:v0.8.0
+quay.io/prometheus-operator/prometheus-config-reloader:v0.44.1
