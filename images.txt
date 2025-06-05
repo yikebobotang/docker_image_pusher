@@ -1,1 +1,1 @@
-nvidia/dcgm-exporter:2.4.7-2.6.11-ubi8
+nvcr.io/nvidia/k8s/dcgm-exporter:3.4.7-3.7.0-ubuntu20.04
