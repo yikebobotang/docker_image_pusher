@@ -1,1 +1,1 @@
-quay.io/prometheus/prometheus:v2.22.1
+nvidia/k8s-device-plugin:v0.9.0
