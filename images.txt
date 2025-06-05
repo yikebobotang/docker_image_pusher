@@ -1,1 +1,1 @@
-nvidia/dcgm-exporter:3.3.9-3.6.1-ubi9
+cuda-vector-add:v0.1
