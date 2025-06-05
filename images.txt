@@ -1,1 +1,1 @@
-nvidia/k8s-device-plugin:v0.9.0
+dcgm-exporter:v2.4.7-ubi
