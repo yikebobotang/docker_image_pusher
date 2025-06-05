@@ -1,1 +1,1 @@
-nvcr.io/nvidia/k8s/dcgm-exporter:v3.2.2-ubi
+nvidia/dcgm-exporter:2.4.7-2.6.11-ubi8
