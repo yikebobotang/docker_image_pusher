@@ -1,1 +1,1 @@
-mongodb:4.2.21 --platform=linux/arm64
+arm64v8/mongo:4.2.21
