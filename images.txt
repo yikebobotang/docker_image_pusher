@@ -1,1 +1,1 @@
-mirrorgooglecontainers/cuda-vector-add:v0.1
+mongodb:4.2.21 --platform=linux/arm64
