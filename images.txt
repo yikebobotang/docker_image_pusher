@@ -1,1 +1,1 @@
-nvcr.io/nvidia/k8s/dcgm-exporter:3.2.2-3.18.0
+nvcr.io/nvidia/k8s/dcgm-exporter:3.4.1-ubuntu22.04
