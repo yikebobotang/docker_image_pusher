@@ -1,1 +1,1 @@
-nvcr.io/nvidia/k8s/dcgm-exporter:3.4.1-ubuntu22.04
+registry.k8s.io/metrics-server/metrics-server:v0.8.0
