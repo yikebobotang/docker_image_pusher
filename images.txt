@@ -1,1 +1,1 @@
-virag/oracle-19.3.0-ee-arm64
+dgkim312/oracle19c-arm64
