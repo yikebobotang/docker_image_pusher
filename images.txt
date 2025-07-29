@@ -1,1 +1,1 @@
---platform=linux/arm64 mochoa/oracle-free
+harisekhon/hbase:latest
