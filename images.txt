@@ -1,1 +1,1 @@
---platform=linux/arm64 harisekhon/hbase:latest
+--platform=linux/arm64 ibmcom/db2:latest
