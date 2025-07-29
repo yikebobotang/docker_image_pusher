@@ -1,1 +1,1 @@
---platform=linux/arm64 datagrip/db2
+--platform=linux/arm64 linmch/db2
