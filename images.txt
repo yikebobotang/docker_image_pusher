@@ -1,1 +1,1 @@
---platform=linux/arm64 db2
+--platform=linux/arm64 taskana/db2:11.5
