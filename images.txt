@@ -1,1 +1,1 @@
-mochoa/oracle-free
+--platform=linux/arm64 mochoa/oracle-free
