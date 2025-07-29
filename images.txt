@@ -1,1 +1,1 @@
---platform=linux/arm64 linmch/db2
+--platform=linux/arm64 maketechnology/db2:10.5.0.5
