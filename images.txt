@@ -1,1 +1,1 @@
---platform=linux/arm64 maketechnology/db2:10.5.0.5
+--platform=linux/arm64 gvenzl/oracle-xe:21-slim
