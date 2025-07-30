@@ -1,1 +1,1 @@
-container-registry.oracle.com/database/free:23.3.0.0-arm64
+container-registry.oracle.com/database/free:latest
