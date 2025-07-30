@@ -1,1 +1,1 @@
---platform=linux/arm64 gvenzl/oracle-xe:21-slim
+container-registry.oracle.com/database/free:23.3.0.0-arm64
