@@ -1,1 +1,1 @@
-openeuler/hbase
+--platform=linux/arm64 shihd/gbase8a:1.0
