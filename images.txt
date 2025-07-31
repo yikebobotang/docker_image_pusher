@@ -1,2 +1,1 @@
---platform=linux/arm64 container-registry.oracle.com/database/free:latest
---platform=linux/arm64 openeuler/hbase
+openeuler/hbase
