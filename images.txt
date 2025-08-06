@@ -1,1 +1,1 @@
-registry.k8s.io/pause:3.10
+docker.io/calico/node:v3.24.1
