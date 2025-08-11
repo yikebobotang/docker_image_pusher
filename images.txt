@@ -1,1 +1,1 @@
---platform=linux/arm64 mongo:4.4.29-focal
+--platform=linux/arm64 dyrnq/rocketmq:4.8.0-jdk21
