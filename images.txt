@@ -1,1 +1,1 @@
---platform=linux/arm64 spark:3.5.3-scala2.12-java17-python3-r-ubuntu
+--platform=linux/arm64 zookeeper:3.9.3
