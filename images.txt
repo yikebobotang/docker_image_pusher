@@ -1,1 +1,1 @@
---platform=linux/arm64 zookeeper:3.9.3
+--platform=linux/arm64 mongo:4.4.29-focal
