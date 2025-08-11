@@ -1,1 +1,1 @@
---platform=linux/arm64 bitnami/kafka:3.5.1
+--platform=linux/arm64 minio:RELEASE.2022-01
