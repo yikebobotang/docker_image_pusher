@@ -1,1 +1,2 @@
---platform=linux/arm64 rocketmq:4.7.1
+--platform=linux/arm64 rocketmq:4.8.0
+
