@@ -1,1 +1,1 @@
---platform=linux/arm64 minio:RELEASE.2022-01
+--platform=linux/arm64 circleci/mongo:4.4
