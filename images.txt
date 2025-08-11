@@ -1,1 +1,1 @@
---platform=linux/arm64 openeuler/hadoop:3.4.1-oe2403sp1
+--platform=linux/arm64 spark:3.5.3-scala2.12-java17-python3-r-ubuntu
