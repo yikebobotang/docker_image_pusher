@@ -1,1 +1,1 @@
---platform=linux/arm64 elasticsearch:7.17.28
+--platform=linux/arm64 kafka:3.5.1
