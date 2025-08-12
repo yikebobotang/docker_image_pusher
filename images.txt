@@ -1,1 +1,1 @@
---platform=linux/arm64 dyrnq/rocketmq:4.8.0-jdk21
+ibmcom/db2:latest
