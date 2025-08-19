@@ -1,1 +1,1 @@
-ibmcom/db2:latest
+kube-rbac-proxy:v0.14.2
