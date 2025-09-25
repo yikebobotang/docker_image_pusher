@@ -1,1 +1,1 @@
-quay.io/brancz/kube-rbac-proxy:v0.14.2
+nacos/nacos-server:2.5.1
