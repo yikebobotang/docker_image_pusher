@@ -1,1 +1,1 @@
-mirrored-calico-cni:v3.21.1
+raancher/mirrored-calico-cni:v3.21.1
