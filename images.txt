@@ -1,1 +1,1 @@
-nacos/nacos-server:v2.5.1
+mirrored-calico-cni:v3.21.1
