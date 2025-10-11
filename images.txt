@@ -1,1 +1,1 @@
-rancher/mirrored-calico-cni:v3.21.1
+rancher/mirrored-metrics-server:v0.5.1
