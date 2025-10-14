@@ -1,1 +1,1 @@
---platform linux/arm64 node:22-bookworm-slim
+--platform linux/arm64 golang:1.21.4-bookworm
