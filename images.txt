@@ -1,1 +1,1 @@
-rancher/mirrored-calico-pod2daemon-flexvol:v3.21.1
+--platform linux/arm64 node:22-bookworm-slim
