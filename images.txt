@@ -1,2 +1,2 @@
---platform linux/arm64 quay.io/coreos/kube-state-metrics:v1.9.7
+--platform linux/arm64 coreos/kube-state-metrics:v1.9.7
 --platform linux/arm64  directxman12/k8s-prometheus-adapter:v0.8.2
