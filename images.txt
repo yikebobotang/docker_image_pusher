@@ -1,2 +1,1 @@
---platform linux/arm64 coreos/kube-state-metrics:v1.9.7
-
+--platform linux/arm64 registry.k8s.io/kube-state-metrics/kube-state-metrics:v1.9.7
