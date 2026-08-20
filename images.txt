@@ -1,1 +1,1 @@
---platform linux/arm64 redis:8.8.2-fips
+--platform linux/arm64 redis:8.8.2
