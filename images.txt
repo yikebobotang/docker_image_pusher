@@ -1,4 +1,2 @@
-#--platform linux/arm64 dhi.io/redis:8.8.2-fips
---platform linux/arm64  registry.k8s.io/ingress-nginx/controller:v1.15.1
---platform linux/arm64  registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.6.9
---platform linux/arm64  registry.k8s.io/defaultbackend-arm64:1.5
+--platform linux/arm64 registry.rancher.com/rancher/rancher:v2.13.8
+--platform linux/arm64 registry.rancher.com/rancher/shell:v0.6.4
