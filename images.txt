@@ -1,1 +1,4 @@
---platform linux/arm64 registry.rancher.com/rancher/rancher-webhook:v0.9.7
+--platform linux/arm64 "quay.io/jetstack/cert-manager-cainjector:v1.16.3"
+--platform linux/arm64 "quay.io/jetstack/cert-manager-controller:v1.16.3"
+--platform linux/arm64 "quay.io/jetstack/cert-manager-startupapicheck:v1.16.3"
+--platform linux/arm64 "quay.io/jetstack/cert-manager-webhook:v1.16.3"
