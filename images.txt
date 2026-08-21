@@ -1,4 +1,1 @@
---platform linux/arm64 rancher/fleet:v0.14.9
---platform linux/arm64 rancher/scc-operator:v0.5.0
---platform linux/arm64 rancher/kuberlr-kubectl:v6.1.1
---platform linux/arm64 rancher/turtles:v0.25.6
+--platform linux/arm64 rancher/fleet-agent:v0.14.9
